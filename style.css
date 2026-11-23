@@ -21,8 +21,8 @@ Demo from PROG 102 Code
  /* Image Application Dropzone */
 
     #dropzone {
-      width: 320px;
-      height: 240px;
+      width: 400px;
+      height: 300px;
       border: 20px solid #000;
       display: flex;
       align-items: center;
